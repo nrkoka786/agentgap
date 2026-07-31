@@ -1,0 +1,58 @@
+[
+  {
+    "category": "agent-frameworks",
+    "query": "(topic:ai-agents OR topic:agent-framework OR topic:autonomous-agents) stars:>50 archived:false"
+  },
+  {
+    "category": "llm-apps",
+    "query": "(topic:llm OR topic:large-language-models) stars:>100 archived:false"
+  },
+  {
+    "category": "rag",
+    "query": "(topic:rag OR topic:retrieval-augmented-generation) stars:>50 archived:false"
+  },
+  {
+    "category": "mcp",
+    "query": "(topic:mcp OR topic:model-context-protocol) stars:>20 archived:false"
+  },
+  {
+    "category": "agent-memory",
+    "query": "(\"agent memory\" in:name,description,readme OR topic:ai-memory) stars:>20 archived:false"
+  },
+  {
+    "category": "agent-observability",
+    "query": "(\"llm observability\" in:name,description,readme OR \"agent observability\" in:name,description,readme) stars:>20 archived:false"
+  },
+  {
+    "category": "llm-evaluation",
+    "query": "(topic:llm-evaluation OR \"LLM evaluation\" in:name,description,readme) stars:>20 archived:false"
+  },
+  {
+    "category": "guardrails-security",
+    "query": "(topic:llm-security OR topic:ai-security OR \"AI guardrails\" in:name,description,readme) stars:>20 archived:false"
+  },
+  {
+    "category": "browser-agents",
+    "query": "(\"browser agent\" in:name,description,readme OR topic:browser-automation) stars:>50 archived:false"
+  },
+  {
+    "category": "multi-agent",
+    "query": "(\"multi-agent\" in:name,description,readme OR topic:multi-agent-systems) stars:>20 archived:false"
+  },
+  {
+    "category": "local-ai",
+    "query": "(topic:local-llm OR topic:local-ai OR topic:llm-inference) stars:>100 archived:false"
+  },
+  {
+    "category": "voice-ai",
+    "query": "(topic:voice-ai OR topic:speech-to-text OR topic:text-to-speech) stars:>100 archived:false"
+  },
+  {
+    "category": "ai-devtools",
+    "query": "(topic:ai-developer-tools OR topic:ai-coding-assistant) stars:>50 archived:false"
+  },
+  {
+    "category": "workflow-automation",
+    "query": "(\"AI workflow\" in:name,description,readme OR topic:workflow-automation) stars:>100 archived:false"
+  }
+]
